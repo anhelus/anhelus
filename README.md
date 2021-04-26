@@ -14,11 +14,10 @@ I found a lack of open source tutorials and knowledge in my native language (Ita
 
 A lot of things, including:
 
-* Something about the history of the Free and Open Source Software.
 * Something about the history of videogames (this is actually my deepest, most relevant hobby).
-* How to create a chicken coop (yes, I know).
+* Creating a chicken coop (yes, I know).
 * How to start two blogs and don't die trying.
-* React, .NET Core, Keras, for work and fun.
+* React, Python, TensorFlow.
 
 #### ⚡ Fun facts
 
