@@ -23,4 +23,4 @@ A lot of things, including:
 
 I'm not a funny person. Still, fun facts usually happen around me.
 
-[![Anhelus's GitHub stats](https://github-readme-stats.vercel.app/api?username=anhelus)](https://github.com/anuraghazra/github-readme-stats)
+[![Anhelus's GitHub stats](./readme-stats/stats.svg)](https://github.com/anuraghazra/github-readme-stats)
